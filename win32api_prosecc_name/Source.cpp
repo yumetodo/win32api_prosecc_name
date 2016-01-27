@@ -1,6 +1,6 @@
 ﻿/*=============================================================================
 Copyright (C) 2016 yumetodo
-https://github.com/Nagarei/DxLibEx/
+https://github.com/yumetodo/win32api_prosecc_name
 
 Distributed under the Boost Software License, Version 1.0.
 (See http://www.boost.org/LICENSE_1_0.txt)
